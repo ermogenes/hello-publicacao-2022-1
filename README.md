@@ -14,6 +14,8 @@ Aqui vai qq coisa [Clique aqui](https://github.com/ermogenes/aulas-programacao-c
 
 [Baixar arquivo](arquivo%20para%20download.zip)
 
+[Baixar programa](hello-publicacao-2022-1.zip)
+
 1. texto 💀
 1. texto 🍕
 
